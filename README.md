@@ -19,4 +19,4 @@ Flutter, Dart, Hive Local Database
 flutter pub get
 flutter run
 
-Built by Niqab Khan - NAVTTC Peshawar 2026
+Built by Engr Niqab Khan - 
